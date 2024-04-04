@@ -1,0 +1,11 @@
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\bin\Debug\WorkCover.dll
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\bin\Debug\WorkCover.pdb
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\bin\Debug\DataCover.dll
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\bin\Debug\UsersCover.dll
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\bin\Debug\DataCover.pdb
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\bin\Debug\UsersCover.pdb
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\obj\Debug\WorkCover.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\obj\Debug\WorkCover.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\obj\Debug\WorkCover.csproj.CopyComplete
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\obj\Debug\WorkCover.dll
+C:\Users\Carlos Eduardo\source\repos\FinalProject\WorkCover\obj\Debug\WorkCover.pdb

@@ -1,0 +1,9 @@
+C:\Users\Carlos Eduardo\source\repos\FinalProject\DataCover\bin\Debug\DataCover.dll
+C:\Users\Carlos Eduardo\source\repos\FinalProject\DataCover\bin\Debug\DataCover.pdb
+C:\Users\Carlos Eduardo\source\repos\FinalProject\DataCover\bin\Debug\UsersCover.dll
+C:\Users\Carlos Eduardo\source\repos\FinalProject\DataCover\bin\Debug\UsersCover.pdb
+C:\Users\Carlos Eduardo\source\repos\FinalProject\DataCover\obj\Debug\DataCover.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\source\repos\FinalProject\DataCover\obj\Debug\DataCover.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\source\repos\FinalProject\DataCover\obj\Debug\DataCover.csproj.CopyComplete
+C:\Users\Carlos Eduardo\source\repos\FinalProject\DataCover\obj\Debug\DataCover.dll
+C:\Users\Carlos Eduardo\source\repos\FinalProject\DataCover\obj\Debug\DataCover.pdb

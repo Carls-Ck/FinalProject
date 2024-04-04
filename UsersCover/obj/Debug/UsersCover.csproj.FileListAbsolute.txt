@@ -1,0 +1,6 @@
+C:\Users\Carlos Eduardo\source\repos\FinalProject\UsersCover\bin\Debug\UsersCover.dll
+C:\Users\Carlos Eduardo\source\repos\FinalProject\UsersCover\bin\Debug\UsersCover.pdb
+C:\Users\Carlos Eduardo\source\repos\FinalProject\UsersCover\obj\Debug\UsersCover.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\source\repos\FinalProject\UsersCover\obj\Debug\UsersCover.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\source\repos\FinalProject\UsersCover\obj\Debug\UsersCover.dll
+C:\Users\Carlos Eduardo\source\repos\FinalProject\UsersCover\obj\Debug\UsersCover.pdb
